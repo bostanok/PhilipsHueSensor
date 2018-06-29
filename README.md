@@ -5,8 +5,8 @@ Philips Hue Sensor
 Adding automatic capabilities for some of the lights just for fun.
 
 Part list:
-	* A Philips Hue System (any version)
-	* Raspberry PI
-	* PIR Sensor
-	* Ultrasonic Sensor (SR HC04)
+ * A Philips Hue System (any version)
+ * Raspberry PI
+ * PIR Sensor
+ * Ultrasonic Sensor (SR HC04)
 
